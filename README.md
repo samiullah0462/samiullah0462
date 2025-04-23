@@ -38,6 +38,28 @@
 </p>
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiullah0462&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah0462&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<!---  FOR THE FUTURE 😁
+<p align="center">
+  <img src="https://github.com/samiullah0462/samiullah0462/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiullah0462&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=samiullah0462&theme=github" alt="GitHub Contribution Graph" />
+</p>
+--->
+
+---
 
 ### 💼 Projects I’m Proud Of
 
